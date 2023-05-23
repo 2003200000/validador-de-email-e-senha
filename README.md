@@ -5,7 +5,7 @@
 
 # 📝 Descrição
 
-Validador de Email e  Senha  é um projeto que mostra minhas habilidades com Javascript estudado ele e vim compartilhar com vocês
+Validador de Email e  Senha  é um projeto que mostra minhas habilidades com Javascript, caso email e senha esteja errados ambos ira mostrar inválido ex: Email Invalido ou Senha Inválida. 
 
  
 # 🛠️Funcionalidades!
